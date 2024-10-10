@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "TrueServer": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "applicationUrl": "http://localhost:5000", // Apenas HTTP
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
